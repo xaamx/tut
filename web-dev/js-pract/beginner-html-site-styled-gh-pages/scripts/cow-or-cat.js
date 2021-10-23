@@ -4,12 +4,12 @@ let mammal ='cow';
 if(mammal === 'cow') {
 
     // moo
-    alert ('moo'); }
+    console.log ('moo'); }
 
 // if variable is not a cow
 else {
     // meow
-    alert('meow');
+    console.log('meow');
 
 }
 
